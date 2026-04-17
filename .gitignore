@@ -1,0 +1,11 @@
+# R and IDE files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated outputs
+outputs/
+
+# Local dataset (uncomment if you do not want to track input data)
+# data/mental_health_dataset.csv
